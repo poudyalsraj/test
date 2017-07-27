@@ -2,5 +2,5 @@
 #include<conio.h>
 void main()
 {
-cout<<"hello";
+cout<<"hello i am shanta";
 }
